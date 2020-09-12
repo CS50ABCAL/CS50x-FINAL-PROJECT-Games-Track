@@ -8,6 +8,6 @@ On the other hand, how to quit is simply by pressing the 'escape' key.
 
 By the way, this is purely a game and this does not connote any personal, racial, religion, social et al issues.
 I chose unicorn as the image simply because I find it cute enough to be the graphic characters of my game.
-You may this out : https://www.youtube.com/watch?v=AcHeS6Na690
+You may it out here : https://www.youtube.com/watch?v=AcHeS6Na690
 
-Thank you and this is CS50.
+Thank you and this is CS50. :)
